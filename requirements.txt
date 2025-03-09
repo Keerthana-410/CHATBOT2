@@ -6,3 +6,4 @@ pytesseract
 PyPDF2
 python-docx
 Pillow
+pyaudio
